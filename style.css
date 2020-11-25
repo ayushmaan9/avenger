@@ -1,0 +1,14 @@
+.container {
+    text-align: center;
+    background-color: aqua;
+    height: 800px;
+}
+
+#myCarousel {
+    background-color:deepskyblue;
+    height:800px;
+}
+p{font-size: 50px;
+font-family: cursive
+    ;
+}
